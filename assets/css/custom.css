@@ -8,4 +8,11 @@
 
 .content {
     font-family: "Halyard Display", sans-serif;
-  }
+}
+
+.video-shortcode {
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    overflow: hidden;
+}
